@@ -1,0 +1,16 @@
+C:\Users\user1\Desktop\תכנותתת\שנה ב\פרקטיקוד\2\lesson2-ruti-weisbeker\lesson2-ruti-weisbeker\bin\Debug\net6.0\lesson2-ruti-weisbeker.exe
+C:\Users\user1\Desktop\תכנותתת\שנה ב\פרקטיקוד\2\lesson2-ruti-weisbeker\lesson2-ruti-weisbeker\bin\Debug\net6.0\Data\HtmlTags.json
+C:\Users\user1\Desktop\תכנותתת\שנה ב\פרקטיקוד\2\lesson2-ruti-weisbeker\lesson2-ruti-weisbeker\bin\Debug\net6.0\Data\HtmlVoidTags.json
+C:\Users\user1\Desktop\תכנותתת\שנה ב\פרקטיקוד\2\lesson2-ruti-weisbeker\lesson2-ruti-weisbeker\bin\Debug\net6.0\lesson2-ruti-weisbeker.deps.json
+C:\Users\user1\Desktop\תכנותתת\שנה ב\פרקטיקוד\2\lesson2-ruti-weisbeker\lesson2-ruti-weisbeker\bin\Debug\net6.0\lesson2-ruti-weisbeker.runtimeconfig.json
+C:\Users\user1\Desktop\תכנותתת\שנה ב\פרקטיקוד\2\lesson2-ruti-weisbeker\lesson2-ruti-weisbeker\bin\Debug\net6.0\lesson2-ruti-weisbeker.dll
+C:\Users\user1\Desktop\תכנותתת\שנה ב\פרקטיקוד\2\lesson2-ruti-weisbeker\lesson2-ruti-weisbeker\bin\Debug\net6.0\lesson2-ruti-weisbeker.pdb
+C:\Users\user1\Desktop\תכנותתת\שנה ב\פרקטיקוד\2\lesson2-ruti-weisbeker\lesson2-ruti-weisbeker\obj\Debug\net6.0\lesson2-ruti-weisbeker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\תכנותתת\שנה ב\פרקטיקוד\2\lesson2-ruti-weisbeker\lesson2-ruti-weisbeker\obj\Debug\net6.0\lesson2-ruti-weisbeker.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\תכנותתת\שנה ב\פרקטיקוד\2\lesson2-ruti-weisbeker\lesson2-ruti-weisbeker\obj\Debug\net6.0\lesson2-ruti-weisbeker.AssemblyInfo.cs
+C:\Users\user1\Desktop\תכנותתת\שנה ב\פרקטיקוד\2\lesson2-ruti-weisbeker\lesson2-ruti-weisbeker\obj\Debug\net6.0\lesson2-ruti-weisbeker.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תכנותתת\שנה ב\פרקטיקוד\2\lesson2-ruti-weisbeker\lesson2-ruti-weisbeker\obj\Debug\net6.0\lesson2-ruti-weisbeker.dll
+C:\Users\user1\Desktop\תכנותתת\שנה ב\פרקטיקוד\2\lesson2-ruti-weisbeker\lesson2-ruti-weisbeker\obj\Debug\net6.0\refint\lesson2-ruti-weisbeker.dll
+C:\Users\user1\Desktop\תכנותתת\שנה ב\פרקטיקוד\2\lesson2-ruti-weisbeker\lesson2-ruti-weisbeker\obj\Debug\net6.0\lesson2-ruti-weisbeker.pdb
+C:\Users\user1\Desktop\תכנותתת\שנה ב\פרקטיקוד\2\lesson2-ruti-weisbeker\lesson2-ruti-weisbeker\obj\Debug\net6.0\lesson2-ruti-weisbeker.genruntimeconfig.cache
+C:\Users\user1\Desktop\תכנותתת\שנה ב\פרקטיקוד\2\lesson2-ruti-weisbeker\lesson2-ruti-weisbeker\obj\Debug\net6.0\ref\lesson2-ruti-weisbeker.dll
